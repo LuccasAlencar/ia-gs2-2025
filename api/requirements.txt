@@ -1,0 +1,12 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+Werkzeug==3.0.1
+python-dotenv==1.0.0
+pandas
+numpy
+requests==2.31.0
+Pillow
+tqdm
+transformers
+torch
+sentence-transformers
