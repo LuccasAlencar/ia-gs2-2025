@@ -78,8 +78,6 @@ chmod +x *.sh
 ### 3️⃣ **Iniciar o Servidor**
 
 ```bash
-# Com FLASK_ENV em produção (sem debug)
-set FLASK_ENV=production
 python run.py
 ```
 
